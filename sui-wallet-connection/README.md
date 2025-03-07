@@ -122,17 +122,17 @@ git push origin feature/your-feature-name
 Open a pull request. 
 ```
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Acknowledgments
+## Acknowledgments
 Sui Team: For building the Sui blockchain and providing the @mysten/dapp-kit library.
 
 Vite: For the fast and modern build tool.
 
 React Community: For the amazing ecosystem of tools and libraries.
 
-Contact
+## Contact
 For questions or feedback, feel free to reach out:
 
 Idopise: edwinidopise@gmail.com
