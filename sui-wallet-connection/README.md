@@ -41,24 +41,20 @@ Follow these steps to set up and run the project locally.
    git clone https://github.com/your-username/sui-wallet-connection.git
 Navigate to the project directory:
 
-bash
-Copy
-cd sui-wallet-connection
-Install dependencies:
+  ```bash
+  Copy
+  cd sui-wallet-connection
+  Install dependencies:
 
-bash
-Copy
-npm install
-Running the Project
-Start the development server:
+  npm install
+  Running the Project
+  Start the development server:
 
-bash
-Copy
-npm run dev
-Open your browser and navigate to:
+  npm run dev
+  Open your browser and navigate to:
 
-Copy
-http://localhost:5173
+  Copy
+  http://localhost:5173
 Usage
 Connect a Wallet:
 
@@ -123,7 +119,8 @@ Push to the branch:
 bash
 Copy
 git push origin feature/your-feature-name
-Open a pull request.
+Open a pull request. 
+```
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
@@ -141,16 +138,3 @@ For questions or feedback, feel free to reach out:
 Idopise: edwinidopise@gmail.com
 
 GitHub: Icekidtech
-
-Cop
-
----
-
-### **How to Use This README**
-1. Replace placeholders like `your-username`, `your-email@example.com`, and `Your Name` with your actual details.
-2. Add a screenshot of your app to the `public/` folder and update the `![Screenshot](./public/screenshot.png)` line with the correct file path.
-3. Customize the content as needed to match your project.
-
----
-
-Let me know if you need further assistance! GM GM 🚀
